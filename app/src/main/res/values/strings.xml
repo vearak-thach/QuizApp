@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1_text">1. Which one of Superman\'s villians was elected President of the United States?</string>
+    <string name="option_1a">Brainiac</string>
+    <string name="option_1b">Lex Luther</string>
+    <string name="option_1c">Darkseid</string>
+    <string name="option_1d">Mongul</string>
+    <string name="question_2_text">2. Based on Batman comic published in 1940, who was the first Robin?</string>
+    <string name="option_2a">Damian Wayne</string>
+    <string name="option_2b">Jason Todd</string>
+    <string name="option_2c">Tim Drake</string>
+    <string name="option_2d">Dick Grayson</string>
+    <string name="question_3_text">3. Pick two correct answers out of the three choices below whose a member of the Justice League.</string>
+    <string name="option_3a">Aquaman</string>
+    <string name="option_3b">Gorilla Grodd</string>
+    <string name="option_3c">Cyborg</string>
+    <string name="question_4_text">4. Name the Amazonian Princess, psuedo name given: \'Diana Prince\'?</string>
+</resources>
