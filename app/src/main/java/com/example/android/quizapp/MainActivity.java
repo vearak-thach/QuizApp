@@ -66,10 +66,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private int totalEditTextPoints() {
-        if (editTextWonderWoman.equals(wonderWoman)) {
+        String userText = editTextWonderWoman.getText().toString();
+        if (userText.equals(wonderWoman)) {
             return 1;
         } else
-            return -1;
+            return 0;
     }
 
     public int calculatePoints() {
