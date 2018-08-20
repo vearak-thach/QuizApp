@@ -7,4 +7,4 @@ This project is designed to teach the following:
  
  - App design 
  - Creating, positioning, and styling views 
- - Creating interactivity through button clicks and Java code. 
+ - Creating interactivity through button clicks and Java code
